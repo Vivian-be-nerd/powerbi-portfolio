@@ -1,6 +1,8 @@
 # FuWei's Data Analytics Portfolio
 
-Hi! I'm a Business Analytics student specializing in data visualization, DAX programming, and data-driven insights. This portfolio showcases projects across public safety, HR analytics, retail, and financial services.
+Hi! I'm Fu Wei, a Business Analytics master's student at Oakland University with 10+ years of digital marketing and analytics experience. I combine business acumen with technical skills in data visualization, statistical analysis, and machine learning to transform complex data into actionable insights.
+
+This portfolio showcases my analytical projects across various domains including public safety, workforce analytics, retail optimization, and financial services.
 
 ## Projects by Skill Area
 
