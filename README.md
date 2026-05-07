@@ -7,27 +7,30 @@ Hi! I'm a Business Analytics student specializing in data visualization, DAX pro
 ### 📊 Power BI Projects
 
 **Real-world Data Analysis**
-**[LA Crime Analysis (2020-2024)](./project1-la-crime/)**
-- 375K+ LAPD crime records
-- Geospatial analysis and temporal patterns
-- Interactive crime hotspot mapping
-- [View Project →](./project1-la-crime/)
+
+**1. LA Crime Analysis (2020-2024)**
+  - 375K+ LAPD crime records
+  - Geospatial analysis and temporal patterns
+  - Interactive crime hotspot mapping
+  - [View Project →](./project1-la-crime/)
 
 **Academic Case Studies**
-**[Employee Attrition Analysis](./project2-hr-attrition/)**
-- 40-year workforce trends
-- Retention strategy recommendations
-- [View Project →](./project2-hr-attrition/)
 
-**[Used Car Sales Performance](./project3-car-sales/)**
-- Regional sales optimization
-- 3,700% growth trajectory study
-- [View Project →](./project3-car-sales/)
+**1. Employee Attrition Analysis**
+  - 40-year workforce trends
+  - Retention strategy recommendations
+  - [View Project →](./project2-hr-attrition/)
 
-**[Banking Customer Retention](./project4-banking/)**
-- Churn pattern analysis
-- U-shaped retention curve discovery
-- [View Project →](./project4-banking/)
+**2. Used Car Sales Performance**
+  - Regional sales optimization
+  - 3,700% growth trajectory study
+  - [View Project →](./project3-car-sales/)
+
+**3. Banking Customer Retention**
+  - Churn pattern analysis
+  - U-shaped retention curve discovery
+  - [View Project →](./project4-banking/)
+
 
 Click each project to view detailed analysis, methodologies, and visualizations.
 
