@@ -28,14 +28,20 @@ Analyzed Part 1 crime data in Los Angeles from 2020 to 2024, visualizing spatial
 
 **Screenshots**
 
-![Comprehensive Analysis Dashboard](./images/project1_final.png)
-*Final dashboard integrating crime trends, victim demographics, and top crime types across all categories*
+![Overview Dashboard](./images/project1_overview.png)
+*Overview dashboard with total crime statistics, clearance rates, and demographic breakdowns*
 
-![Property Crime Geospatial Analysis](./images/project1_property_crime.png)
-*Interactive map showing property crime hotspots concentrated in Hollywood and West LA commercial areas*
+![Property Crime Map](./images/project1_property_crime.png)
+*Geospatial visualization of property crime distribution across Los Angeles*
 
-![Violent Crime Geospatial Analysis](./images/project1_violent_crime.png)
-*Spatial distribution of violent crimes in Southeast and 77th Street low-income communities*
+![Violent Crime Map](./images/project1_violent_crime.png)
+*Geospatial visualization of violent crime distribution across Los Angeles*
+
+![Victim Demographics](./images/project1_demographics.png)
+*Victim demographics analysis by race, gender, and age*
+
+![Comprehensive Analysis](./images/project1_final.png)
+*Year-over-year trends, crime type composition, and top crime categories*
 
 ---
 
