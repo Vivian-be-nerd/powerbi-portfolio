@@ -1,4 +1,4 @@
-# FuWei's Data Analytics Portfolio
+# Fu Wei's Data Analytics Portfolio
 
 Hi! I'm Fu Wei, a Business Analytics master's student at Oakland University with 10+ years of digital marketing and analytics experience. I combine business acumen with technical skills in data visualization, statistical analysis, and machine learning to transform complex data into actionable insights.
 
