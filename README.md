@@ -23,24 +23,24 @@ This portfolio showcases my analytical projects across various domains including
   - 375K+ LAPD crime records | Real-world LAPD data
   - Geospatial analysis and temporal patterns
   - Interactive crime hotspot mapping
-  - [View Project →](./project1-la-crime/)
+  - [View Project →](./powerbi-projects/project1-la-crime/)
 
 **2. Employee Attrition Analysis**
   - 40-year workforce trends | Academic case study
   - Retention strategy recommendations
-  - [View Project →](./project2-hr-attrition/)
+  - [View Project →](./powerbi-projects/project2-hr-attrition/)
 
 **3. Used Car Sales Performance**
   - Regional sales optimization | Academic case study
   - 3,700% growth trajectory study
-  - [View Project →](./project3-car-sales/)
+  - [View Project →](./powerbi-projects/project3-car-sales/)
 
 **4. Banking Customer Retention**
   - Churn pattern analysis | Academic case study
   - U-shaped retention curve discovery
-  - [View Project →](./project4-banking/)
+  - [View Project →](./powerbi-projects/project4-banking/)
 
-*View all Power BI projects with detailed analysis →* [Power BI Portfolio](./powerbi-projects/)
+*View all Power BI projects with detailed analysis →* [Power BI Portfolio](./powerbi-projects/PowerBI_README.md)
 
 ---
 
